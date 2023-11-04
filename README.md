@@ -2,7 +2,7 @@
 Um hospital estava precisando modernizar seu atendimento e à aua forma de armazenar dados. Com isso eu recebi a tarefa de criar um sistema de banco de dados para este hospital, garantido um sistema funcional.
 
 ### PARTE 1
-No primeiro momento era necessário criar um modelo conceitual. Nele foi definido 5 entidades e a forma como elas se relacionam.
+<h4>No primeiro momento era necessário criar um modelo conceitual. Nele foi definido 5 entidades e a forma como elas se relacionam.
 
 ![IMG-1](https://github.com/RafaelLima07/PROA-Banco_de_Dados-Hospital/blob/main/assets/Modelo-Conceitual_1.png)
 
