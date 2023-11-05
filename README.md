@@ -1,5 +1,5 @@
 # O Hospital 
-Um hospital estava precisando modernizar seu atendimento e à aua forma de armazenar dados. Com isso eu recebi a tarefa de criar um sistema de banco de dados para este hospital, garantido um sistema funcional.
+Um hospital estava precisando modernizar seu atendimento e à sua forma de armazenar dados. Com isso eu recebi a tarefa de criar um sistema de banco de dados para este hospital, garantido um sistema funcional.
 
 
 ### PARTE 1
