@@ -13,6 +13,6 @@ Agora era necessário acrescentar mais 4 entidades, e seus relacionamentos, ao p
 
 ![IMG-2](https://github.com/RafaelLima07/PROA-Banco_de_Dados-Hospital/blob/main/assets/Modelo-Conceitual_2.png)
 
-Após esse segundo modelo conceitual, foi necessário criar um modelo lógico, onde fosse definido quais os dados que cada entidade precisava para funcionar. 
+Após esse segundo modelo conceitual, foi necessário criar um modelo lógico, onde fosse definido quais os dados que cada entidade precisava para funcionar e como era o relacionamento entre essas entidades. 
 
 ![IMG-2.1](https://github.com/RafaelLima07/PROA-Banco_de_Dados-Hospital/blob/main/assets/Modelo-Logico.png)
